@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917785671612",
+    "project_id": "days-flashcards-for-kids",
+    "storage_bucket": "days-flashcards-for-kids.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917785671612:android:732b10690ecb9a389c1db9",
+        "android_client_info": {
+          "package_name": "com.darshankomu.days_flashcards_for_kids"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1vCa-BAZoeNt1QEb-n2Hwtwe2ufb79yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
